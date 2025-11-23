@@ -91,7 +91,7 @@ Pipeline com estrutura profissional (Bronze/Silver/Gold):
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioaugust&show_icons=true&theme=dark&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=august0datadev&show_icons=true&theme=dark&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaugust&layout=compact&theme=dark" />
 
