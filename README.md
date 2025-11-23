@@ -1,89 +1,118 @@
-<h1 align="center">👋 Olá, eu sou o Flávio Augusto!</h1>
+<h1 align="center">💾 Flávio Augusto — Engenharia de Dados</h1>
 
 <p align="center">
-  🚀 Desenvolvedor | 📊 Aspirante a Engenheiro de Dados | 🔧 Assistente Comercial na Equatorial Energia  
+  🚀 Engenheiro de Dados em formação | 🧠 Engenharia da Computação | ⚡ Pipelines, Analytics e Sistemas Distribuídos  
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação** e **Engenharia da Computação**, com experiência prática em:
-- Engenharia de dados e ETL/ELT  
-- Projetos com **Airflow**, **DBT**, **API ingestion**  
-- Python para análise, automação e pipelines  
-- Visualização de dados (Power BI, Python)  
-- Distribuição de energia e Medição Fiscal (experiência profissional real)  
+Estudante de **Engenharia da Computação**, focado em **Engenharia de Dados, arquiteturas distribuídas e pipelines modernos**.  
+Atuo criando soluções de dados escaláveis e inteligentes, usando tecnologias atuais do ecossistema de Data Engineering.
 
-Atualmente trabalho na **Equatorial Energia (Alagoas)** com processos de:
-- Recuperação de energia  
-- Geração e gestão de alvos de fiscalização  
-- Análise e tratamento de dados operacionais  
-
-E busco oportunidades como **Analista Júnior**, **Engenheiro de Dados** ou **Desenvolvedor Python**.
+Tenho experiência prática com:
+- Construção de pipelines **ETL/ELT**
+- Integração de dados via APIs
+- Orquestração com **Airflow**
+- Transformações com **dbt**
+- Processamento distribuído com **Spark**
+- Modelagem de dados moderna (Bronze → Silver → Gold)
+- Análises e dashboards em Power BI
+- Lakehouse e Data Warehouses modernos
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## ⚙️ Tecnologias & Ferramentas
 
-### 💻 Desenvolvimento
+### 🧠 Engenharia de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-
-### 📊 Dados
+![PySpark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-### 🛠 Ferramentas
+### ☁️ Data Warehouse / Lakehouse
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+
+### 📊 BI & Análise
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=power-bi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Knime](https://img.shields.io/badge/KNIME-FCD300?logo=knime&logoColor=black)
+
+### 🛠 Ferramentas de Trabalho
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
-![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?logo=zorin&logoColor=white)
 
 ---
 
-## 📂 Projetos em Destaque
+## 📚 Formação
 
-### 🔹 🛰 Pipeline de Engenharia de Dados (Airflow + DBT + APIs)
-> Pipeline completo com ingestão de dados de APIs de grande volume, orquestração com Airflow e transformações com DBT.
-
-🔗 *em breve*
+🎓 **Engenharia da Computação**  
+Foco: **Engenharia de Dados, Big Data, Computação Distribuída, IA e Segurança**
 
 ---
 
-### 🔹 🌤 OpenWeather ETL
-> Projeto de ingestão de dados climáticos com Python + API + transformações.
+## 🚀 Projetos em Destaque
 
-🔗 *em breve*
+### 🛰 Pipeline ELT Completo — Airflow + DBT + APIs + Snowflake
+Pipeline com estrutura profissional (Bronze/Silver/Gold):
+- Extração de dados de APIs  
+- Armazenamento raw  
+- Transformações dbt  
+- Orquestração Airflow  
+- Modelos analíticos prontos para BI  
+
+🔗 *em desenvolvimento*
 
 ---
 
-### 🔹 📈 Painéis com Power BI
-> Dashboards com análises operacionais, estatísticas e insights.
+### ⚡ Detecção de Anomalias em Dados de Energia (Spark)
+- Processamento distribuído de dados elétricos  
+- Estatística aplicada e regras de negócio  
+- Identificação de padrões suspeitos  
 
-🔗 *em breve*
+🔗 *em desenvolvimento*
 
 ---
 
-## 📚 O que estou estudando agora
-- Engenharia de Dados moderna (Airflow, DBT, Lakehouse)
-- Estatística aplicada e probabilidade
-- Python para automação e pipelines
-- Django e aplicações web
-- Cibersegurança e hacking ético
+### 🌤 OpenWeather Data Pipeline (Airflow + Python)
+- Coleta de dados climáticos  
+- Pré-validações  
+- Transformações e análises  
+
+🔗 *em desenvolvimento*
+
+---
+
+## 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioaugust&show_icons=true&theme=dark&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaugust&layout=compact&theme=dark" />
+
+</div>
+
+---
+
+## 🐍 Animação — Snake Eating My Contributions
+
+<div align="center">
+  
+![snake gif](https://github.com/flavioaugust/flavioaugust/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
 ## 📫 Como me encontrar
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/flavioaugust/" target="_blank">
+  <a href="https://www.linkedin.com/in/flavioaugust" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seuemail@gmail.com">
@@ -94,5 +123,5 @@ E busco oportunidades como **Analista Júnior**, **Engenheiro de Dados** ou **De
 ---
 
 <p align="center">
-  Feito com 💡, disciplina e muita curiosidade.
+  🔥 Engenharia de Dados não é só sobre dados — é sobre construir sistemas que movem decisões.  
 </p>
