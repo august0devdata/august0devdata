@@ -65,25 +65,7 @@ Pipeline com estrutura profissional (Bronze/Silver/Gold):
 - Orquestração Airflow  
 - Modelos analíticos prontos para BI  
 
-🔗 *em desenvolvimento*
-
----
-
-### ⚡ Detecção de Anomalias em Dados de Energia (Spark)
-- Processamento distribuído de dados elétricos  
-- Estatística aplicada e regras de negócio  
-- Identificação de padrões suspeitos  
-
-🔗 *em desenvolvimento*
-
----
-
-### 🌤 OpenWeather Data Pipeline (Airflow + Python)
-- Coleta de dados climáticos  
-- Pré-validações  
-- Transformações e análises  
-
-🔗 *em desenvolvimento*
+🔗 https://github.com/august0devdata/airflow_dbt_pipeline
 
 ---
 
@@ -91,9 +73,9 @@ Pipeline com estrutura profissional (Bronze/Silver/Gold):
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=august0datadev&show_icons=true&theme=dark&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=august0devdata&show_icons=true&theme=dark&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaugust&layout=compact&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=august0devdata&layout=compact&theme=dark" />
 
 </div>
 
@@ -103,7 +85,7 @@ Pipeline com estrutura profissional (Bronze/Silver/Gold):
 
 <div align="center">
   
-![snake gif](https://github.com/flavioaugust/flavioaugust/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/august0devdata/august0devdata/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
