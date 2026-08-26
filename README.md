@@ -53,31 +53,6 @@ Tenho experiência prática com:
 🎓 **Engenharia da Computação**  
 Foco: **Engenharia de Dados, Big Data, Computação Distribuída, IA e Segurança**
 
----
-
-## 🚀 Projetos em Destaque
-
-### 🛰 Pipeline ELT Completo — Airflow + DBT + APIs + Snowflake
-Pipeline com estrutura profissional (Bronze/Silver/Gold):
-- Extração de dados de APIs  
-- Armazenamento raw  
-- Transformações dbt  
-- Orquestração Airflow  
-- Modelos analíticos prontos para BI  
-
-🔗 https://github.com/august0devdata/airflow_dbt_pipeline
-
----
-
-## 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=august0devdata&show_icons=true&theme=dark&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=august0devdata&layout=compact&theme=dark" />
-
-</div>
 
 ## 📫 Como me encontrar
 
