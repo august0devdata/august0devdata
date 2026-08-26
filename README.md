@@ -79,18 +79,6 @@ Pipeline com estrutura profissional (Bronze/Silver/Gold):
 
 </div>
 
----
-
-## 🐍 Animação — Snake Eating My Contributions
-
-<div align="center">
-  
-![snake gif](https://github.com/august0devdata/august0devdata/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📫 Como me encontrar
 
 <p align="left">
